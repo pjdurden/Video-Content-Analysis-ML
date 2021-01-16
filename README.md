@@ -6,7 +6,7 @@ DELHI TECHNOLOGICAL UNIVERSITY
 Video Content Analysis (Object Detection)  
 Under supervision of : Dr. Anil Singh Parihar  
 Submitted by :  
-PRAJJWAL CHITTORI (2K18/CO/249)  
+PRAJJWAL CHITTORI  
 (Dept. of Computer Science and Engineering)
 
 # Fixes used to make object detection faster

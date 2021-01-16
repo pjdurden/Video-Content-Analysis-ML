@@ -1,4 +1,4 @@
-# Video-Content-Analysis-Machine-Learning
+# Video Content Analysis Machine Learning
 DELHI TECHNOLOGICAL UNIVERSITY
 
 # Machine Learning Project

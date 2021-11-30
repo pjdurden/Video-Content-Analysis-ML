@@ -4,10 +4,10 @@ DELHI TECHNOLOGICAL UNIVERSITY
 # Machine Learning Project
 
 Video Content Analysis (Object Detection)  
-Under supervision of : Dr. Anil Singh Parihar  
-Submitted by :  
+<!-- Under supervision of : Dr. Anil Singh Parihar  
+Submitted by :   -->
 PRAJJWAL CHITTORI  
-(Dept. of Computer Science and Engineering)
+<!-- (Dept. of Computer Science and Engineering) -->
 
 # Fixes used to make object detection faster
 
